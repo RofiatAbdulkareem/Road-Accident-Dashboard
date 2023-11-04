@@ -19,4 +19,4 @@ These are my insights
 
 Click on the link below to view the entire dashboard
 
-https://app.powerbi.com/groups/me/reports/322ff110-3658-4a14-a282-f5bfdd9e7728?ctid=682106db-9a7b-4b35-b9a0-88473385d6cf&pbi_source=linkShare&bookmarkGuid=e630dd6f-b5f0-4c89-8275-41b32ba9c029
+https://drive.google.com/file/d/1MIR2N_fJfsCEXgyPkoUC8Cyu0woIROMA/view?usp=drive_link
